@@ -7,6 +7,7 @@ Veg items
 -----------
 panner
 vegbiryani
+pizza
 
 
 Thank you:)
